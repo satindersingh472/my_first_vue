@@ -1,7 +1,7 @@
 
 <template>
   <div>
-<p>This is the vue js practice deploy by satinder singh</p>
+<p>This is the vue js practice deploy by satinder singh, I am adding the continous deployment.</p>
   </div>
 </template>
 
